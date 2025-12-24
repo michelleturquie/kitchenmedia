@@ -15,14 +15,14 @@ export const Hero = () => {
           <h1 className="heading-xl opacity-0 animate-fade-up">
             Marketing
             <br />
-            Estrategico y
+            Estratégico y
           </h1>
           <h1 className="heading-xl mt-2 opacity-0 animate-fade-up stagger-1">
             Creativo.
           </h1>
 
           <p className="text-body-lg mt-4 md:mt-6 max-w-xl opacity-0 animate-fade-up stagger-3 text-white/80">
-            Agencia especializada en estrategia y creatividad aplicadas a resultados, para marcas que quieren crecer y poscionarse.
+            Agencia especializada en estrategia y creatividad aplicadas a resultados, para marcas que quieren crecer y posicionarse.
 
           </p>
         </div>
