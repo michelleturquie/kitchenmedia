@@ -11,8 +11,8 @@ export const Contact = () => {
           <h2 className="heading-lg">Hablemos.</h2>
 
           <p className="text-body-lg mt-8 max-w-xl text-black/80">
-            ¿Tenés una marca gastronómica y querés llevarla al siguiente nivel?
-            Escribinos y vemos cómo podemos trabajar juntos.
+          Nos gusta trabajar con marcas que buscan resultados.
+          Si tenés un proyecto y querés hacerlo crecer a través de ideas creativas y estratégicas, escribinos.
           </p>
 
           <div className="mt-10">
